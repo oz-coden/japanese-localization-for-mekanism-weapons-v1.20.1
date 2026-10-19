@@ -19,7 +19,7 @@ This is an unofficial resource pack, and some parts of the translation were gene
 ## Target Environment
 
 *   **Minecraft:** 1.20.1
-*   **Forge**: 4.7.10
+*   **Forge**: 47.4.10
 *   **Mekanism: Weapons:** 3.0
 
 ## Installation
@@ -64,7 +64,7 @@ MinecraftのMOD「[Mekanism: Weapons](https://www.curseforge.com/minecraft/mc-mo
 ## 動作確認環境
 
 *   **Minecraft:** 1.20.1
-*   **Forge**: 4.7.10
+*   **Forge**: 47.4.10
 *   **Mekanism: Weapons:** 3.0
 
 ## 導入方法
